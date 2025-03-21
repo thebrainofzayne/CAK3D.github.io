@@ -11,8 +11,9 @@ Trail.
 
 ## Projects
 ### CAK3DBot
-- A Discord Server Bot for ꧁ᙃᥲყⱿ ᙅᗣҜӠᙃ꧂
-- [discord.gg/6NFd2cx9KU]
+- A Discord Server Bot for the ꧁ᙃᥲყⱿ ᙅᗣҜӠᙃ꧂ Discord and
+DayZ Servers.
+- [www.discord.gg/6NFd2cx9KU]
 
 ### Sullivan Connect
 - Sullivan Connect is your trusty shop companion, 
@@ -23,7 +24,7 @@ of your Auto Location.
 ### ZBot
 -  The all-seeing, all-doing powerhouse that keeps
 the God's of Z server running day in and day out.
-- [discord.gg/8J5F9KjkS6]
+- [www.discord.gg/8J5F9KjkS6]
 
 ## Education
 - Self Taught
