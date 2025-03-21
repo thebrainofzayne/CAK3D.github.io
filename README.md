@@ -3,11 +3,11 @@ Host Site for CAK3D applications.
 
 # ꧁ᙅᗣҜӠᙃ꧂
 Hello, as you might have already noticed, I go by CAK3D.
-I like to code—mostly whipping up custom Discord bots and 
+- I like to code—mostly whipping up custom Discord bots and 
 tweaking DayZ servers for fun. 
-On my free time I lightweight-overnight-hike the Appalachian 
+- On my free time I lightweight-overnight-hike the Appalachian 
 Trail.
-I FIX CAR FOR MONIES ! !
+- I FIX CAR FOR MONIES ! !
 
 ## Projects
 ### CAK3DBot
