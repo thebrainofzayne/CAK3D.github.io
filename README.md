@@ -1,7 +1,7 @@
 # CAK3D.github.io
 Host Site for CAK3D applications.
 
-# ꧁ᙅᗣҜӠᙃ꧂
+## ꧁ᙅᗣҜӠᙃ꧂
 Hello, as you might have already noticed, I go by CAK3D.
 - I like to code—mostly whipping up custom Discord bots and 
 tweaking DayZ servers for fun. 
@@ -20,25 +20,25 @@ designed to streamline the day-to-day operations
 of your Auto Location. 
 - Private Bot ( no link available )
 
-#### ZBot
+### ZBot
 -  The all-seeing, all-doing powerhouse that keeps
 the God's of Z server running day in and day out.
 - discord.gg/8J5F9KjkS6
 
-# Education
+## Education
 - Self Taught
 
-# Experience
-## Cannabis Cultivation
+## Experience
+### Cannabis Cultivation
 - 25+ years
 - 8 years professional
 ### CO2 Extraction
 - 5+ years professional
-#### Music Production
+### Music Production
 - 20+ years
-##### CAD
+### CAD
 - 3 years
-###### Mechanic
+### Mechanic
 - 10 years
 - 2 professional
   
